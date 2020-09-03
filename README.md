@@ -1,6 +1,6 @@
 # Open Source Mobile_React-Native
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Mobile__React--Native-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Mobile_React-Native)](https://github.com/GabrielFSSantos/Mobile_React-Native/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Mobile_React-Native)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 > :wrench:  Mobile_React-Native é um projeto base de um front-end em NodeJS, React e React Native, com codigo limpo e pronto para ser implementado. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -26,7 +26,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 [ReactNative]: <https://facebook.github.io/react-native/>
 [Node.js]: <https://nodejs.org/>
